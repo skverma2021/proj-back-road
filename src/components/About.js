@@ -13,15 +13,9 @@ const About = () => {
         <article className='about-info'>
           <h3>Explore the difference</h3>
           <p>
-            Hi! Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-            sapiente odio unde dolor?
+            Hi This is a new react app just for exploring gitHub and Netlify
           </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
-          </p>
+          <p>Thanks for your visit</p>
           <a href='#about' className='btn'>
             read more
           </a>
