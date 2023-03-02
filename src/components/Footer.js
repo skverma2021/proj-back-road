@@ -29,6 +29,7 @@ const Footer = () => {
         <li>
           <a
             href='https://www.twitter.com'
+            rel='noreferrer'
             target='_blank'
             className='footer-icon'
           >
@@ -38,6 +39,7 @@ const Footer = () => {
         <li>
           <a
             href='https://www.twitter.com'
+            rel='noreferrer'
             target='_blank'
             className='footer-icon'
           >
@@ -47,6 +49,7 @@ const Footer = () => {
         <li>
           <a
             href='https://www.twitter.com'
+            rel='noreferrer'
             target='_blank'
             className='footer-icon'
           >
