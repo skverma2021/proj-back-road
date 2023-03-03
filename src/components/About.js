@@ -15,6 +15,9 @@ const About = () => {
           <p>
             Hi This is a new react app just for exploring gitHub and Netlify
           </p>
+          <p>
+            Hi This is a new react app just for exploring gitHub and Netlify
+          </p>
           <p>Thanks for your visit</p>
           <a href='#about' className='btn'>
             read more
